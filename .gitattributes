@@ -1,0 +1,3 @@
+# Forçar reconhecimento mesmo em pastas normalmente ignoradas
+src/main/java/** linguist-detectable
+target/** -linguist-detectable  # (opcional) Ignorar pastas de build
